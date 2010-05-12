@@ -1,0 +1,12 @@
+== About
+
+Here's the situation. You are some sort of web dev. Now, there is this evil sysadmin who won't let you ssh to the server to monitor its cpu/ram usage. What do you do? You make yourself an web system monitor with fancy interface ofc. That's the one I bundled. 
+
+== Contents
+
+3 files - the interface file (index.php), the info harvesting file (info.php) and prototype.js (because I am way too lazy)
+
+== Requirements
+
+An Unixy server and PHP.
+
